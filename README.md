@@ -4,4 +4,4 @@ Traditionally, EEG signals are depicted in a Cartesian coordinate system, reflec
 
 The artwork showcased here celebrates the centenary of Berger's pioneering achievement by visually representing one hundred EEG recordings. These recordings are from resting state condition sourced from the TDBRAIN dataset, made available by the Bainclinics foundation webpage (https://brainclinics.com/resources/), which also offers access to original publications by Hans Berger spanning the years 1900 to 1938.
 
-The process of transforming EEG signals from Cartesian to polar coordinates is documented on the Berger Mandala artwork's GitHub page at https://github.com/albertoarturovergani/berger-mandala.
+The process of transforming EEG signals from Cartesian to polar coordinates is documented on the Berger Mandala artwork's GitHub page at https://github.com/albertoarturovergani/berger-mandala. The colour palettes are a combination of a selection of colour mixtures, the sizes of the mandalas as well as their positions are arranged according to random factors.
