@@ -7,3 +7,5 @@ The artwork presented here commemorates the centenary of Berger's pioneering ach
 The artwork's natural dimensions adhere to the A0 format at 750 DPI. Color palettes are randomly selected from a pool of 100 options and assigned to each EEG pattern mandala. Proportions between the sides follow a pyramidal sequence.
 
 Documentation detailing EEG preprocessing and the transformation from Cartesian to polar coordinates, along with the code for generating the artwork, is available at https://github.com/albertoarturovergani/berger-mandalas. It's noteworthy that the composition of 100 Berger mandalas can also be perceived as a single stand-alone large Berger mandala, evoking various hierarchies of periodic spatial structures.
+
+![Mio Mandala](./berger-mandalas-artwork/)
