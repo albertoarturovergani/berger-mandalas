@@ -4,7 +4,7 @@ Traditionally, EEG signals are graphed in a Cartesian coordinate system to captu
 
 The artwork presented here commemorates the centenary of Berger's pioneering achievement by visually representing exactly 100 EEG recordings. These recordings are sourced from the resting state condition of the TDBRAIN dataset, available through the Bainclinics foundation webpage (https://brainclinics.com/resources/), which also provides access to original publications by Hans Berger from 1900 to 1938.
 
-The artwork's natural dimensions adhere to the A0 format at 750 DPI. Color palettes are randomly selected from a pool of 100 options and assigned to each EEG pattern mandala. Proportions between the sides follow a pyramidal sequence.
+The artwork's natural dimensions adhere to the A1 format at 750 DPI. Color palettes are randomly selected from a pool of 100 options and assigned to each EEG pattern mandala. Proportions between the sides follow a pyramidal sequence.
 
 Documentation detailing EEG preprocessing and the transformation from Cartesian to polar coordinates, along with the code for generating the artwork, is available at https://github.com/albertoarturovergani/berger-mandalas. It's noteworthy that the composition of 100 Berger mandalas can also be perceived as a single stand-alone large Berger mandala, evoking various hierarchies of periodic spatial structures.
 
